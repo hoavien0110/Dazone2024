@@ -1,6 +1,6 @@
 # Dazone2024 - 3G
 
-This repository contains our winning submission (team 3G) for the DAZONE 2024 held in June 22, 2024. The competition focused on Data Analytics of Enterprise.
+This repository contains our winning submission (team 3G) for the DAZONE 2024 held in June 22, 2024. The competition focused on Data Analytics for Enterprise.
 
 Our team includes Le Gia Quyen (UEL), Le Tran Le Ngoc (UEL) and Vo Hoang Hoa Vien (HCMUS).
 
